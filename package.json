@@ -1,0 +1,17 @@
+{
+  "name": "share-chores",
+  "version": "0.0.0",
+  "description": "Application to create share chores app",
+  "scripts": {
+    "start": "nodemon src/index.ts"
+  },
+  "main": "dist/index.js",
+  "repository": "git@github.com:ajaymathur/share-chores.git",
+  "author": "<ajaynarainmathur@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
