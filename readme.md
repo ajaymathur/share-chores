@@ -4,13 +4,13 @@
 
 #### Users table
 
-|id|name|email|rooms|
-|-|-|-|-|
+|name|email|rooms|
+|-|-|-|
 
 #### Rooms table
 
-|id|name|members|chores|
-|-|-|-|-|
+|id|name|members|chores|admin|
+|-|-|-|-|-|
 
 #### Chores table
 
@@ -20,6 +20,8 @@
 ### APIs
 
 #### create user
+
+Name, email, add to room.
 
 #### create room with user
 
