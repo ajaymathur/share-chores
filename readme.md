@@ -4,8 +4,8 @@
 
 #### Users table
 
-|name|email|rooms|
-|-|-|-|
+|name|email|rooms|chores|
+|-|-|-|-|
 
 #### Rooms table
 
@@ -27,4 +27,4 @@ Name, email, add to room.
 
 #### add user to room with email
 
-#### Add expense to the room and split with users in room
+#### Add chore to the room and assigne to a users in room
